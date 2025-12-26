@@ -257,6 +257,15 @@ We welcome contributions.
   - Add tests and update docs
   - Open a pull request describing the change, linking any related issues
 - Code style and tests are enforced in CI.
+- - South Africa: Protection of Personal Information Act (POPIA)
+  - ## Non-Goals
+
+This project explicitly does NOT:
+- Perform keystroke logging, screen capture, or content interception
+- Bypass operating system security controls
+- Monitor devices without explicit, recorded consent
+- Collect passwords, private messages, or personal media
+- Act as spyware, stalkerware, or employee surveillance software
 
 License
 -------
