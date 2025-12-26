@@ -171,8 +171,8 @@ Endpoints & examples
       }
     }'
   ```
-- Response: 202 Accepted
-  {
+- Response: 202 ted
+- tted- ted {
     "event_id": "evt_01F...",
     "status": "queued",
     "signed": true
