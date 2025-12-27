@@ -1,4 +1,4 @@
-Consent-based device and event audit logging platform # didactic-chainsaw
+     .Consent-based device and event audit logging platform # didactic-chainsaw
 
 # didactic-chainsaw
 
@@ -307,7 +307,7 @@ This software must only be used on devices and systems that you own, operate, or
 When deploying in regions with privacy laws (GDPR, CCPA, etc.), ensure:
 - you have a lawful basis for processing,
 - consent is recorded and revocable,
-- data subject rights (access, deletion, portability) can be honored.
+- data subject rights (access, deletion, portability) can bebe honored.
 
 Contact
 -------
