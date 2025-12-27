@@ -262,15 +262,17 @@ logging platform focused on security, integrity, and privacy by design.
 - Early MVP experimentation
 - Evaluation, learning, and pilot implementations
 
+
+## Notes
+This release prioritizes **correctness, ethics, and clarity** over feature
+completeness. Future releases will build incrementally on this foundation.
+
 ## Not Yet Included
 - Production-hardened authentication flows
 - Full admin dashboard
 - Independent security audit
 - Compliance certifications
-
-## Notes
-This release prioritizes **correctness, ethics, and clarity** over feature
-completeness. Future releases will build incrementally on this foundation.
+- 
 
 Contributing
 ------------
