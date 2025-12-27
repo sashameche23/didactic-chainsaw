@@ -244,7 +244,33 @@ Monitoring & alerting
 - Alert on:
   - high ingestion error rate
   - signing key expiry
-  - failed backups
+  - failed backups# v0.1.0 — Foundation Release
+
+Initial foundation release of **didactic-chainsaw**, a consent-first audit
+logging platform focused on security, integrity, and privacy by design.
+
+## Highlights
+- Defined consent-first architecture and core concepts
+- Secure event ingestion model (JWT / mTLS-ready)
+- Append-only, tamper-resistant audit log design
+- Device registration and authentication concepts
+- Clear legal, ethical, and non-goals boundaries
+- Comprehensive documentation for architecture, security, and operations
+
+## Intended Use
+- Architectural reference
+- Early MVP experimentation
+- Evaluation, learning, and pilot implementations
+
+## Not Yet Included
+- Production-hardened authentication flows
+- Full admin dashboard
+- Independent security audit
+- Compliance certifications
+
+## Notes
+This release prioritizes **correctness, ethics, and clarity** over feature
+completeness. Future releases will build incrementally on this foundation.
 
 Contributing
 ------------
