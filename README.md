@@ -1,11 +1,7 @@
-     .Consent-based device and event audit logging platform # didactic-chainsaw
-
 # didactic-chainsaw
 
-[![Release](https://img.shields.io/github/v/release/sashameche23/didactic-chainsaw?label=release)](https://github.com/sashameche23/didactic-chainsaw/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/sashameche23/didactic-chainsaw/ci.yml?branch=main)](https://github.com/sashameche23/didactic-chainsaw/actions)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![Issues](https://img.shields.io/github/issues/sashameche23/didactic-chainsaw)](https://github.com/sashameche23/didactic-chainsaw/issues)
+Consent-first device & application audit logging platform — secure,
+tamper-resistant, and privacy-preserving.     -chainsaw)](https://github.com/sashameche23/didactic-chainsaw/issues)
 
 Consent-first device & application audit logging platform — secure, tamper-resistant, and privacy-preserving.
 
